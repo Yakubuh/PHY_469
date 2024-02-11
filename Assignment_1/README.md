@@ -10,4 +10,4 @@ Use a for loop in Python to solve this equation numerically and determine the te
 
 Calculate the specific heat capacity $C_p$ of the solid by running the simulation for a range of heat inputs and plotting the temperature ($T$) versus the heat input ($Q$). Extract the slope of this plot, which will give you $\frac{C_p}{V}$, where $V$ is the volume of the solid.
 
-***Given the parameters*** $$\bold{k=0.1$, $A=1$, $d=0.1$, $T_{e}=300$, $T_0=500$, $dt=0.01$, and $t_{final}=100}$$.
+***Given the parameters*** $\b{ $k=0.1$, $A=1$, $d=0.1$, $T_{e}=300$, $T_0=500$, $dt=0.01$, and $t_{final}=100$ }$.
